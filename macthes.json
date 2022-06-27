@@ -23,14 +23,14 @@
       "imagem": "https://i.ytimg.com/vi/pyQ-93EdPnE/maxresdefault.jpg"
     },
     "mandante": { 
-      "nome":"Argentina",
-      "forca": 5,
-      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "nome":"Uruguai",
+      "forca": 3,
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
    },
     "visitante":{
-      "nome":"Uruguai",
-      "forca": 4,
-      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+      "nome":"Brasil",
+      "forca": 5,
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   },
    {
